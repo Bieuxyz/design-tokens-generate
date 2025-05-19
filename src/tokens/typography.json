@@ -1,0 +1,22 @@
+{
+	"fontSize": {
+		"xs": {
+			"value": "0.75rem",
+			"type": "typography"
+		},
+		"sm": {
+			"value": "0.875rem",
+			"type": "typography"
+		}
+	},
+	"fontWeight": {
+		"thin": {
+			"value": "100",
+			"type": "typography"
+		},
+		"extralight": {
+			"value": "200",
+			"type": "typography"
+		}
+	}
+}

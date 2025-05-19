@@ -1,0 +1,14 @@
+{
+	"padding": {
+		"1": {
+			"value": "0.25rem",
+			"type": "spacing"
+		}
+	},
+	"margin": {
+		"1": {
+			"value": "0.25rem",
+			"type": "spacing"
+		}
+	}
+}

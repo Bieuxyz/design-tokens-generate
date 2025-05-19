@@ -1,0 +1,56 @@
+{
+	"source": ["src/tokens/*.json"],
+	"platforms": {
+		"css_colors": {
+			"transformGroup": "css",
+			"buildPath": "src/Colors/",
+			"files": [
+				{
+					"destination": "style.css",
+					"format": "css/variables",
+					"filter": {
+						"type": "color"
+					}
+				},
+				{
+					"destination": "../style.css",
+					"format": "css/variables"
+				}
+			]
+		},
+		"css_spacings": {
+			"transformGroup": "css",
+			"buildPath": "src/Spacing/",
+			"files": [
+				{
+					"destination": "style.css",
+					"format": "css/variables",
+					"filter": {
+						"type": "spacing"
+					}
+				},
+				{
+					"destination": "../style.css",
+					"format": "css/variables"
+				}
+			]
+		},
+		"css_typography": {
+			"transformGroup": "css",
+			"buildPath": "src/Typography/",
+			"files": [
+				{
+					"destination": "style.css",
+					"format": "css/variables",
+					"filter": {
+						"type": "typography"
+					}
+				},
+				{
+					"destination": "../style.css",
+					"format": "css/variables"
+				}
+			]
+		}
+	}
+}

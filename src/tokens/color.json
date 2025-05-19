@@ -1,0 +1,58 @@
+{
+	"bg": {
+		"cherry": {
+			"600": {
+				"value": "#B83A3E",
+				"type": "color"
+			},
+			"500": {
+				"value": "#E5484D",
+				"type": "color"
+			},
+			"400": {
+				"value": "#EA6D71",
+				"type": "color"
+			},
+			"300": {
+				"value": "#F5B6B8",
+				"type": "color"
+			},
+			"200": {
+				"value": "#F7C8CA",
+				"type": "color"
+			},
+			"100": {
+				"value": "#FADADB",
+				"type": "color"
+			}
+		}
+	},
+	"text": {
+		"cherry": {
+			"600": {
+				"value": "#B83A3E",
+				"type": "color"
+			},
+			"500": {
+				"value": "#E5484D",
+				"type": "color"
+			},
+			"400": {
+				"value": "#EA6D71",
+				"type": "color"
+			},
+			"300": {
+				"value": "#F5B6B8",
+				"type": "color"
+			},
+			"200": {
+				"value": "#F7C8CA",
+				"type": "color"
+			},
+			"100": {
+				"value": "#FADADB",
+				"type": "color"
+			}
+		}
+	}
+}
