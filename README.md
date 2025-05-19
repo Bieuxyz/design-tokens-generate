@@ -1,6 +1,6 @@
-# @signozhq/design-tokens
+# @fl/design-tokens
 
-Welcome to the `@signozhq/design-tokens` package! This package provides a set of design tokens that can be used across your projects to maintain consistency in design and styling.
+Welcome to the `@fl/design-tokens` package! This package provides a set of design tokens that can be used across your projects to maintain consistency in design and styling.
 
 ## Features
 
@@ -14,13 +14,13 @@ Welcome to the `@signozhq/design-tokens` package! This package provides a set of
 To install the package, use npm or yarn:
 
 ```bash
-npm install @signozhq/design-tokens
+npm install @fl/design-tokens
 ```
 
 or
 
 ```bash
-yarn add @signozhq/design-tokens
+yarn add @fl/design-tokens
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ yarn add @signozhq/design-tokens
 You can import the design tokens in your project as follows:
 
 ```typescript
-import { Color, Spacing, Typography } from '@signozhq/design-tokens';
+import { Color, Spacing, Typography } from '@fl/design-tokens';
 // Example usage
 const backgroundColor = Color.BG_ROBIN_100;
 const padding = Spacing.PADDING_4;
@@ -38,15 +38,15 @@ const fontSize = Typography.FONTSIZE_XL;
 Additionally, you can import the generated CSS files that contain all the variables:
 
 ```css
-@import '@signozhq/design-tokens/style.css';
+@import '@fl/design-tokens/style.css';
 ```
 
 Or import specific files for colors, spacing, or typography:
 
 ```css
-@import '@signozhq/design-tokens/src/Colors/colors.css';
-@import '@signozhq/design-tokens/src/Spacing/spacing.css';
-@import '@signozhq/design-tokens/src/Typography/typography.css';
+@import '@fl/design-tokens/src/Colors/colors.css';
+@import '@fl/design-tokens/src/Spacing/spacing.css';
+@import '@fl/design-tokens/src/Typography/typography.css';
 ```
 
 ### Available Tokens

@@ -1,5 +1,5 @@
 {
-	"name": "@signozhq/design-tokens",
+	"name": "@fl/design-tokens",
 	"version": "1.1.4",
 	"type": "module",
 	"main": "./dist/design-tokens.js",

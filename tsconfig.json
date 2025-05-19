@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/tsconfig",
-	"display": "SigNoz Design Tokens",
+	"display": "FL Design Tokens",
 	"include": ["src", "scripts/**/*"],
 	"exclude": ["dist", "build", "node_modules"],
 	"compilerOptions": {
